@@ -1,0 +1,35 @@
+    button{
+    position:absolute;
+    height: 30px;
+    top: 50%;
+    left: 56%;
+    transform: translate(-50, -50);
+    background: #2e04c9;
+    
+}
+ 
+body{
+    Background: #880eec;
+    margin: 0;
+    padding: 0;
+}
+
+input{
+    width: 275px;
+    height: 25px;
+    position:absolute;
+    top: 50%;
+    left: 35.3%;
+    transform: translate(-50, -50);
+    background: #8d4cf567;
+    box-shadow: #3e0ee9;
+}
+
+h1{
+    font-size: 75px;
+    position:absolute;
+    top: 165px;
+    left: 38%;
+    transform: translate(-50, -50);
+   
+}
